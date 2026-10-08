@@ -1,0 +1,6 @@
+{
+  "name": "ALI MURTAZA | Premium Audio Experience",
+  "description": "Discover ALI MURTAZA high-end audio engineering. Precision wireless earbuds, audiophile handsfree, and studio-grade noise-cancelling headphones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
